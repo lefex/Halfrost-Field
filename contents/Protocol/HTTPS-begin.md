@@ -106,7 +106,7 @@ Chrome 62 版本以后，如果网页有输入框，没有 HTTPS 的网页一律
 
 ### 1. 对称密钥加密
 
-对称密钥加密（Symmetric-Key Encryption），加密的加密和解密使用同一密钥。
+对称密钥加密（Symmetric-Key Encryption），加密和解密使用同一密钥。
 
 - 优点：运算速度快；
 - 缺点：密钥容易被获取。
